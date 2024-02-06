@@ -1,5 +1,9 @@
 {
   "python.analysis.typeCheckingMode": "basic",
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 53af1bba1093056735eeb5e59860be83a547dd3a
   "python.formatting.provider": "none",
   "python.analysis.autoImportCompletions": true
 }
